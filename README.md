@@ -1,4 +1,3 @@
-## Hi there 👋
 <div align="center">
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=33FF33&center=true&vCenter=true&width=500&lines=Hey,+I'm+Yash!;Code+Wizard+%26+Cloud+Enthusiast" alt="Typing SVG" />
@@ -33,9 +32,9 @@
 ## My Contributions 🐍
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YASHSALI2005/YASHSALI2005/output/dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YASHSALI2005/YASHSALI2005/output/dist/github-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/YASHSALI2005/YASHSALI2005/output/dist/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YASHSALI2005/YASHSALI2005/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YASHSALI2005/YASHSALI2005/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/YASHSALI2005/YASHSALI2005/output/github-snake.svg" />
   </picture>
 </div>
 
