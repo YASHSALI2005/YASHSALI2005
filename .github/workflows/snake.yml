@@ -1,9 +1,13 @@
 name: Generate Snake
 
+# Add permissions
+permissions:
+  contents: write  # Grants write access to repository contents
+
 on:
   schedule:
-    - cron: "0 */12 * * *" # Runs every 12 hours
-  workflow_dispatch: # Allows manual triggering
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
