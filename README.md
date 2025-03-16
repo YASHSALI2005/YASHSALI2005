@@ -1,7 +1,7 @@
  🚀 Hi there! I'm Yash Sali 👋
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+AI%2FML+Enthusiast;Web+Development+%7C+Cloud+COMPUTING;Turning+Ideas+into+Reality+through+Code;Welcome+to+my+GitHub+profile!+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+AI%2FML+Enthusiast;%7C+Cloud+COMPUTING;Turning+Ideas+into+Reality+through+Code;Welcome+to+my+GitHub+profile!+🚀" />
 </div>
  📊 GitHub Stats
 
@@ -70,19 +70,15 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding GIF" />
+ <p><i>"Code is like humor. When you have to explain it, it’s bad." — Cory House</i></p>
 </div>
 
-- 🔭 Exploring **Computer Vision** and **Deep Learning** for real-world applications
-- 🌱 Mastering **Cloud Architecture** and **Serverless Computing**
-- 🔍 Researching **Ethical AI** and **Bias Detection** in machine learning
-- 📚 Studying advanced **System Design** principles for scalable applications
 
  🌐 Connect With Me
 
 <div align="center">
   <a href="https://x.com/@YashSali1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://www.linkedin.com/in/yashsali05"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://dev.to/yashsali"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
   <a href="mailto:yashsali2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
  🏆 GitHub Contributions
@@ -97,6 +93,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YASHSALI2005&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+ 
 </div>
 
  🎯 Let's Build Something Amazing Together!
