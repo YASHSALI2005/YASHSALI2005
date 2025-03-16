@@ -52,13 +52,12 @@
     </tr>
     <tr>
       <td width="50%">
-        <h2 align="center">☁️ Cloud Deployment Pipeline</h2>
+        <h2 align="center">🏦Basic Banking System</h2>
         <p align="center" style="font-size:18px">
-          Creating CI/CD workflows for automated testing and deployment on AWS
-        </p>
+          Creating a full fledged Basic banking system website</p>
       </td>
       <td width="50%">
-        <h2 align="center">🤖 AI Chat Assistant</h2>
+        <h2 align="center">🤖 AI Chat Bot</h2>
         <p align="center" style="font-size:18px">
           Developing a domain-specific chatbot using NLP and machine learning techniques
         </p>
