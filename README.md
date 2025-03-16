@@ -1,7 +1,7 @@
 # 🚀 Hi there! I'm Yash Sali 👋
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=32&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+AI%2FML+Enthusiast;%7C+Cloud+COMPUTING;Turning+Ideas+into+Reality+through+Code;Welcome+to+my+GitHub+profile!+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=32&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+AI%2FML+Enthusiast;Cloud+Computing;Turning+Ideas+into+Reality+through+Code;Welcome+to+my+GitHub+profile!+🚀" />
 </div>
 
 ## 📊 GitHub Stats
