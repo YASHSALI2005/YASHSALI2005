@@ -1,9 +1,10 @@
- 🚀 Hi there! I'm Yash Sali 👋
+# 🚀 Hi there! I'm Yash Sali 👋
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+AI%2FML+Enthusiast;%7C+Cloud+COMPUTING;Turning+Ideas+into+Reality+through+Code;Welcome+to+my+GitHub+profile!+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=32&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+AI%2FML+Enthusiast;%7C+Cloud+COMPUTING;Turning+Ideas+into+Reality+through+Code;Welcome+to+my+GitHub+profile!+🚀" />
 </div>
- 📊 GitHub Stats
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YASHSALI2005&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -12,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASHSALI2005&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
 </div>
 
- 💻 Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -31,34 +32,34 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 </div>
 
-🚀 Current Projects
+## 🚀 Current Projects
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🧠 Deepfake Detection System</h3>
-        <p align="center">
+        <h2 align="center">🧠 Deepfake Detection System</h2>
+        <p align="center" style="font-size:18px">
           Building an advanced AI system to detect deepfake videos using CNN and transformer architectures
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">✈️ Travel Compass</h3>
-        <p align="center">
+        <h2 align="center">✈️ Travel Compass</h2>
+        <p align="center" style="font-size:18px">
           A full-stack travel planning platform with personalized recommendations and interactive maps
         </p>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">☁️ Cloud Deployment Pipeline</h3>
-        <p align="center">
+        <h2 align="center">☁️ Cloud Deployment Pipeline</h2>
+        <p align="center" style="font-size:18px">
           Creating CI/CD workflows for automated testing and deployment on AWS
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">🤖 AI Chat Assistant</h3>
-        <p align="center">
+        <h2 align="center">🤖 AI Chat Assistant</h2>
+        <p align="center" style="font-size:18px">
           Developing a domain-specific chatbot using NLP and machine learning techniques
         </p>
       </td>
@@ -66,22 +67,22 @@
   </table>
 </div>
 
- 📈 Learning Journey
+## 📈 Learning Journey
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding GIF" />
- <p><i>"Code is like humor. When you have to explain it, it’s bad." — Cory House</i></p>
+  <p style="font-size:20px"><i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i></p>
 </div>
 
-
- 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
   <a href="https://x.com/@YashSali1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://www.linkedin.com/in/yashsali05"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:yashsali2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
- 🏆 GitHub Contributions
+
+## 🏆 GitHub Contributions
 
 <div align="center">
   <picture>
@@ -93,11 +94,10 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YASHSALI2005&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
- 
 </div>
 
- 🎯 Let's Build Something Amazing Together!
+## 🎯 Let's Build Something Amazing Together!
 
 <div align="center">
-  <i>"The only way to do great work is to love what you do." - Steve Jobs</i>
+  <h2><i>"The only way to do great work is to love what you do." - Steve Jobs</i></h2>
 </div>
