@@ -4,14 +4,24 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=32&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+AI%2FML+Enthusiast;Cloud+Computing;Turning+Ideas+into+Reality+through+Code;Welcome+to+my+GitHub+profile!+🚀" />
 </div>
 
-## 📊 GitHub Stats
 
+
+## 📊 GitHub Stats & Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YASHSALI2005&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YASHSALI2005&theme=radical&hide_border=true" alt="Streak Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YASHSALI2005&theme=radical" alt="Profile Summary" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASHSALI2005&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
-</div>
+  <a href="https://github.com/YASHSALI2005">
+    <img src="https://github-readme-stats.vercel.app/api?username=YASHSALI2005&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Yash Sali's GitHub Stats" width="45%" />
+  </a>
+  <a href="https://github.com/YASHSALI2005">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YASHSALI2005&theme=dracula&hide_border=true" alt="Streak Stats" width="45%" />
+  </a>
+  <br>
+  <a href="https://github.com/YASHSALI2005">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASHSALI2005&layout=compact&theme=dracula&hide_border=true" alt="Most Used Languages" width="45%" />
+  </a>
+  <a href="https://github.com/YASHSALI2005">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YASHSALI2005&theme=dracula" alt="Contribution Graph" width="75%" />
+  </a>
+  <br></div>
 
 ## 💻 Tech Stack
 
