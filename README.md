@@ -1,10 +1,9 @@
-# 🚀 Hi there! I'm Yash Sali 👋
+ 🚀 Hi there! I'm Yash Sali 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+AI%2FML+Enthusiast;Web+Development+%7C+Cloud+%7C+Deepfake+Detection;Turning+Ideas+into+Reality+through+Code;Welcome+to+my+GitHub+profile!+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+AI%2FML+Enthusiast;Web+Development+%7C+Cloud+COMPUTING;Turning+Ideas+into+Reality+through+Code;Welcome+to+my+GitHub+profile!+🚀" />
 </div>
-
-## 📊 GitHub Stats
+ 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YASHSALI2005&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -13,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASHSALI2005&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
 </div>
 
-## 💻 Tech Stack
+ 💻 Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -32,7 +31,7 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 </div>
 
-## 🚀 Current Projects
+🚀 Current Projects
 
 <div align="center">
   <table>
@@ -67,7 +66,7 @@
   </table>
 </div>
 
-## 📈 Learning Journey
+ 📈 Learning Journey
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding GIF" />
@@ -78,7 +77,7 @@
 - 🔍 Researching **Ethical AI** and **Bias Detection** in machine learning
 - 📚 Studying advanced **System Design** principles for scalable applications
 
-## 🌐 Connect With Me
+ 🌐 Connect With Me
 
 <div align="center">
   <a href="https://x.com/@YashSali1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
@@ -86,8 +85,7 @@
   <a href="https://dev.to/yashsali"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
   <a href="mailto:yashsali2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
-
-## 🏆 GitHub Contributions
+ 🏆 GitHub Contributions
 
 <div align="center">
   <picture>
@@ -101,7 +99,7 @@
   <img src="https://komarev.com/ghpvc/?username=YASHSALI2005&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
-## 🎯 Let's Build Something Amazing Together!
+ 🎯 Let's Build Something Amazing Together!
 
 <div align="center">
   <i>"The only way to do great work is to love what you do." - Steve Jobs</i>
