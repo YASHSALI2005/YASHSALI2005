@@ -1,8 +1,7 @@
 ## Hi there 👋
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&color=33FF33&center=true&vCenter=true&width=500&lines=Hello,+I'm+YASH SALI!;Welcome+to+My+GitHub!" alt="Typing SVG"/>
-  </h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)  </h1>
 </div>
 ## Stats
 <div align="center">
