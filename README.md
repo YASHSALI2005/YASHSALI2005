@@ -9,6 +9,7 @@
 <p align="center">
   <a href="https://www.yashsali.me"><img src="https://img.shields.io/badge/Portfolio-yashsali.me-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/yashsali05"><img src="https://img.shields.io/badge/LinkedIn-yashsali05-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/yash_debug"><img src="https://img.shields.io/badge/X-@yash__debug-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://ieeexplore.ieee.org/document/11467195"><img src="https://img.shields.io/badge/IEEE-Clickk%20paper-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE paper" /></a>
   <a href="mailto:salirajesh7@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
