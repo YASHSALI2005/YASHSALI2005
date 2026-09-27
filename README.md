@@ -19,15 +19,7 @@
 
 ### 👋 Hey, I'm Yash
 
-```python
-class YashSali:
-    role      = "Machine Learning Engineer @ EnPointe"
-    location  = "Mumbai, India 🇮🇳"
-    focus     = ["RAG & LLM systems", "Time-series forecasting", "Computer vision"]
-    ships     = "models → APIs → products, end to end"
-    published = "IEEE IC3ET 2026 — Clickk: AI-powered debugging"
-    currently = "building production ML for cinema scheduling"
-```
+**Machine Learning Engineer** based in **Mumbai** — I turn messy real-world data into models that run in production.
 
 - 🧠 Converted from ML intern to **full-time ML Engineer** at EnPointe.
 - 🏗️ Fine-tune models (wake-word detection, forecasting), build **RAG pipelines** for LLM-powered web apps,
